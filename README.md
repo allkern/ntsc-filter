@@ -1,2 +1,2 @@
 # ntsc-filter
- NTSC signal decoder/filter written in C++
+ An NTSC signal decoder/filter written in C++

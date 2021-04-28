@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Reference file
+reference.cpp
+
+# Debug build script
+build-win-debug.ps1
